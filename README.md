@@ -2,8 +2,8 @@
 
 ## Skills
 
-#### Technical Skills: Python, SQL, Tableau, PowerBi, Machine Learning
-#### Non-Technical Skills: Curriculum Development, Technical Writing, Technical Training
+#### Technical Skills: Python, SQL, Pandas, Numpy, Matplotlib, Tableau, PowerBi, Seaborn, Machine Learning, Scikit-Learn
+#### Non-Technical Skills: Curriculum Development, Technical Writing, Technical Training, Business Presentations
 
 
 ## Projects
