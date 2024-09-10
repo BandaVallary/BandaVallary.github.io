@@ -4,3 +4,15 @@ show_downloads: true
 theme: jekyll-theme-minimal
 
 # theme: jekyll-theme-midnight
+
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Writing
+    url: /writing/
+  - title: Training
+    url: /training/
+  - title: Blog
+    url: /blog/
